@@ -4,7 +4,7 @@
 
 The file **business_case_presentation.pdf** is the fruit of a double-folded work consisting of:
 - an analysis of a real anonymized database taken from the Adtech field;
-- and the communication of the obtained results to a non-expert customer
+- the communication of the results to a non-expert customer.
 
 The issue to resolve:
 
