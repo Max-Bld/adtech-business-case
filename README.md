@@ -1,24 +1,5 @@
 # Adtech Business Case
 
-## (EN)
-
-### Presentation
-
-The **business_case_presentation.pdf** file represents a double-folded work consisting of:
-- an analysis of a real anonymized database taken from the Adtech field;
-- the communication of the results	in the form of a Powerpoint presentation.
-
-It displays my skills in terms of data analysis and data story-telling.
-
-You can check the code of my data analysis in **business_case.py** (uncommented).
-
-### The Issue to Resolve
-
-*One of our customer (a major French newspaper) has approached us because they are experiencing a strong drop in their eCPM. Indeed, according to the customer, the eCPM has decreased by -25% between June 2022 and July 2022.*
-*What is the reason of this drop?*
-
-This study aims at conveying to the customer what I think to be the cause of the eCPM drop.
-
 ## (FR)
 
 ### Présentation
@@ -27,7 +8,7 @@ Le fichier **business_case_presentation.pdf** est le fruit d'un double travail :
 - d'analyse d'une base de données réelle anonymisée issue du domaine de l'Adtech;
 - de communication des résultats obtenues sous la forme d'une présentation Powerpoint.
 
-Cette étude présente mes compétences en terme d'analyse de données et de communication de mes résultats.
+Cette étude de cas présente mes compétences en terme d'analyse de données et de communication de mes résultats.
 
 Vous pouvez jeter un oeil à mon analyse de données en Python dans le fichier **business_case.py** (non commenté).
 
@@ -37,3 +18,22 @@ Vous pouvez jeter un oeil à mon analyse de données en Python dans le fichier *
 *Quelle est la raison de cette baisse ?*
 
 Cette étude a pour but de transmettre au client ce que j'ai identifié comme étant la cause la plus probable de cette baisse.
+
+## (EN)
+
+### Presentation
+
+The **business_case_presentation.pdf** file represents a double-folded work consisting of:
+- an analysis of a real anonymized database taken from the Adtech field;
+- the communication of the results	in the form of a Powerpoint presentation.
+
+This business case study displays my skills in terms of data analysis and data story-telling.
+
+You can check the code of my data analysis in **business_case.py** (uncommented).
+
+### The Issue to Resolve
+
+*One of our customer (a major French newspaper) has approached us because they are experiencing a strong drop in their eCPM. Indeed, according to the customer, the eCPM has decreased by -25% between June 2022 and July 2022.*
+*What is the reason of this drop?*
+
+This study aims at conveying to the customer what I think to be the cause of the eCPM drop.
