@@ -4,7 +4,7 @@
 
 ### Presentation
 
-The **business_case_presentation.pdf** file is the fruit of a double-folded work consisting of:
+The **business_case_presentation.pdf** file represents a double-folded work consisting of:
 - an analysis of a real anonymized database taken from the Adtech field;
 - the communication of the results to a non-expert customer.
 
