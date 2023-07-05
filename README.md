@@ -35,7 +35,7 @@ The **business_case_presentation.pdf** file represents a double-folded work cons
 
 This business case study displays my skills in terms of data analysis and data story-telling.
 
-You can check the code of my data analysis in **business_case.py** (uncommented), or visit my [Kaggle online notebook right here](https://www.kaggle.com/code/blmxmld/business-case-notebook).
+You can check the code of my data analysis in **business_case.py** (uncommented), or visit my [Kaggle online notebook](https://www.kaggle.com/code/blmxmld/business-case-notebook).
 
 ### The Issue to Resolve
 
