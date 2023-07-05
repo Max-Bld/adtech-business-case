@@ -41,4 +41,4 @@ This study aims at conveying to the customer what I think to be the cause of the
 ## Extract from the Presentation
 
 
-![extrait presentation](https://ibb.co/6WdQLjZ)
+![extrait presentation](https://i.ibb.co/W2TCjm3/image.png)
