@@ -5,7 +5,7 @@
 ### Présentation
 
 Le fichier **business_case_presentation.pdf** est le fruit d'un double travail :
-- d'analyse d'une base de données réelle anonymisée issue du domaine de l'Adtech;
+- d'analyse d'une base de données réelle anonymisée issue du domaine de l'Adtech ;
 - de communication des résultats obtenues sous la forme d'une présentation Powerpoint.
 
 Cette étude de cas présente mes compétences en terme d'analyse de données et de communication de mes résultats.
