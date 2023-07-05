@@ -1,4 +1,4 @@
-# Adtech Business Case: a Data Analysis Presentation
+# Adtech Business Case: *a Data Analysis Presentation*
 
 ## Presentation (EN)
 
