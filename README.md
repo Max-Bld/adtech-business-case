@@ -37,3 +37,8 @@ You can check the code of my data analysis in **business_case.py** (uncommented)
 *What is the reason of this drop?*
 
 This study aims at conveying to the customer what I think to be the cause of the eCPM drop.
+
+## Extract from the Presentation
+
+
+![extrait presentation](https://ibb.co/6WdQLjZ)
