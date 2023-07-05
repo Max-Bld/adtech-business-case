@@ -10,7 +10,7 @@ Le fichier **business_case_presentation.pdf** est le fruit d'un double travail :
 
 Cette étude de cas présente mes compétences en terme d'analyse de données et de communication de mes résultats.
 
-Vous pouvez jeter un oeil à mon analyse de données en Python dans le fichier **business_case.py** (non commenté), ou bien visiter mon notebook en ligne sur Kaggle [juste ici](https://www.kaggle.com/code/blmxmld/business-case-notebook).
+Vous pouvez jeter un oeil à mon analyse de données en Python dans le fichier **business_case.py** (non commenté), ou bien visiter mon notebook en ligne sur [Kaggle juste ici](https://www.kaggle.com/code/blmxmld/business-case-notebook).
 
 ### Le problème à résoudre
 
@@ -35,7 +35,7 @@ The **business_case_presentation.pdf** file represents a double-folded work cons
 
 This business case study displays my skills in terms of data analysis and data story-telling.
 
-You can check the code of my data analysis in **business_case.py** (uncommented), or visit my Kaggle online notebook [right here](https://www.kaggle.com/code/blmxmld/business-case-notebook).
+You can check the code of my data analysis in **business_case.py** (uncommented), or visit my [Kaggle online notebook right here](https://www.kaggle.com/code/blmxmld/business-case-notebook).
 
 ### The Issue to Resolve
 
