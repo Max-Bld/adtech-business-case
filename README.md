@@ -12,6 +12,11 @@ Cette étude de cas présente mes compétences en terme d'analyse de données et
 
 Vous pouvez jeter un oeil à mon analyse de données en Python dans le fichier **business_case.py** (non commenté).
 
+## Extrait de la présentation
+
+
+![extrait presentation](https://i.ibb.co/W2TCjm3/image.png)
+
 ### Le problème à résoudre
 
 *Un de nos client (un journal français important) a constaté une forte baisse de leur niveau d'eCPM. En effet, d'après le client, l'eCPM a baissé d'environ 25% entre Juin 2022 et Juillet 2022.*
