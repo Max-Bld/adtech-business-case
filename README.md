@@ -19,7 +19,7 @@ Vous pouvez jeter un oeil à mon analyse de données en Python dans le fichier *
 
 Cette étude a pour but de transmettre au client ce que j'ai identifié comme étant la cause la plus probable de cette baisse.
 
-# Extrait de la présentation
+### Extrait de la présentation
 
 
 ![extrait presentation](https://i.ibb.co/W2TCjm3/image.png)
@@ -44,7 +44,7 @@ You can check the code of my data analysis in **business_case.py** (uncommented)
 
 This study aims at conveying to the customer what I think to be the cause of the eCPM drop.
 
-## Extract from the Presentation
+### Extract from the Presentation
 
 
 ![extrait presentation](https://i.ibb.co/W2TCjm3/image.png)
