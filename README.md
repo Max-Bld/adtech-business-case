@@ -1,5 +1,5 @@
 # Adtech Business Case
-
+![adtech](https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/adtech%20%281%29.jpg)
 ## (FR)
 
 ### Présentation
